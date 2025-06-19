@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3503619036,
+  "Title": "HighlightDiseaseOnset",
+  "Description": "This mod makes it much easier to notice the onset of disease symptoms.\\n\\nThe text describing the disease onset, e.g. \\\"Your skin itches.\\\" is now shown in red.\\n\\nA preference is also added to show the message as a popup.\\n\\nhttps://github.com/Cattlesquat/HighlightDiseaseOnset",
+  "Tags": "Stable,UI,UX,Cosmetic",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}

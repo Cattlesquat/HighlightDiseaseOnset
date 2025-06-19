@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option ID="OptionHighlightDiseaseOnset" DisplayText="{{lovesickness|Highlight Disease Onset}}: Show popups for disease onset and remission messages" Category="Prompts" Type="Checkbox" Default="Yes"/>
+</options>
