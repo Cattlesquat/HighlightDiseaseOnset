@@ -5,6 +5,6 @@
     "description": "This mod makes it much easier to notice the onset of disease symptoms.\n\nThe text describing the disease onset, e.g. \"Your skin itches.\" is now shown in red.\n\nA preference is also added to show the message as a popup.\n\nhttps://github.com/Cattlesquat/HighlightDiseaseOnset",
     "tags": "Stable,UX,UI,Cosmetic",
     "version": "1.0",
-    "author": "Cattlesquat",
+    "author": "{{ubernostrum|Cattlesquat}}",
     "previewImage": "preview.png"
 }
